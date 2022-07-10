@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(221, 218, 213, 0.678);
+   font-family:Arial, Helvetica, sans-serif ;
+}
+.co{
+    background-color: white;
+    width: 650px;
+    height: 380px;
+    position: absolute;
+    left: 160px;
+    top: 100px;
+    box-shadow: -5px -5px 5px #ddd ;
+}
+.p{
+    margin-left: 100px;
+    margin-top: 40px;
+    width: 90px;
+    height: 20px;
+}
+h1{
+    margin-left: 100px;
+    font-size: 30px;
+    margin-top: -20px;
+    
+    
+}
+.hh{
+    margin-top: 70px;
+    
+}
+p{
+    margin-left: 100px;
+    font-size: 10px;
+    color: hsl(0, 93%, 68%) ;
+    
+}
+.pp{
+   height: 10px;
+   width: 300px;
+   height: 30px;
+   
+}
+.gg{
+    color:  hsl(0, 93%, 68%)
+    ;
+}
+input{
+    border: 2px solid   hsl(0, 7%, 43%);
+    border-radius: 60px ;
+    color:  hsl(0, 93%, 68%)
+    ;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding: 5px;
+    
+}
+
+:placeholder{
+    color: rgb(202, 34, 34);
+}
+ img{
+ 
+    width:280px;
+    height: 380px;
+    
+   
+   
+}
+.r{
+    float: right;
+}
+button{
+    background-color: hsl(0, 93%, 68%) ;
+    padding: 5px;
+    border-radius: 10px;
+    width: 50px;
+    border: rgb(0, 0, 0);
+    color: white;
+  
+}
+.fo{
+    position: absolute;
+ left: 231px;
+ bottom: 2px;
+}
+.ff{
+    position: relative;
+    
+}
+
